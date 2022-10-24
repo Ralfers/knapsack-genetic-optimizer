@@ -1,1 +1,2 @@
-Read rb17055_md1.pdf for a description of the 0-1 knapsack problem, optimizer and test results.
+Genetic optimizer for the 0-1 knapsack problem, made in the scope of the course "Practical Combinatorial Optimization" in
+the University of Latvia.
